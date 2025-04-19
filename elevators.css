@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.img{
+    height:130px;
+    width:220px;
+}
+.si{
+    font-size: 28px;
+    font-family: "roboto";
+}
+.gmail2{
+    height: 20px;
+    width: 20px;
+    margin-left: 50px;
+
+}
+.car{
+    height:90vh;
+}
+.ullist{
+    list-style-type: square;
+}
+.margin-about{
+    margin: 30px;
+}
+.img12{
+    height:400px;
+    width:400px;
+}
+.em{
+    color:white;
+    font-weight: bold;
+    font-size: x-small;
+}
+.cont{
+    background-color: brown;
+    font-size: medium;
+    font-style: italic;
+    color: white;
+    font-weight: bold;
+}
+.th{
+    color:black;
+    font-weight: bold;
+    font-style: italic;
+    font-size: larger;
+}
+.abt{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+.ct{
+    background-color: brown;
+    color: blanchedalmond;
+}
